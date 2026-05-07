@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[5/8/2026 2:54:44 AM] [GET] [/] [::1]
+[5/8/2026 2:54:56 AM] [GET] [/taskItems/index] [::1]
+[5/8/2026 3:00:22 AM] [GET] [/] [::1]
+[5/8/2026 3:00:56 AM] [GET] [/TaskItems/index] [::1]
+[5/8/2026 3:16:14 AM] [GET] [/] [::1]
+[5/8/2026 3:16:29 AM] [GET] [/TaskItems/index] [::1]
+[5/8/2026 3:16:48 AM] [GET] [/TaskItems/Create] [::1]
+[5/8/2026 3:18:51 AM] [GET] [/] [::1]
+[5/8/2026 3:18:57 AM] [GET] [/TaskItems/index] [::1]
+[5/8/2026 3:19:05 AM] [GET] [/TaskItems/Create] [::1]
+[5/8/2026 3:19:06 AM] [GET] [/lib/jquery-validation/dist/jquery.validate.min.js] [::1]
+[5/8/2026 3:19:06 AM] [GET] [/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js] [::1]
+[5/8/2026 3:19:10 AM] [GET] [/TaskItems] [::1]
+[5/8/2026 3:19:13 AM] [GET] [/TaskItems/Create] [::1]
+[5/8/2026 3:19:13 AM] [GET] [/lib/jquery-validation/dist/jquery.validate.min.js] [::1]
+[5/8/2026 3:19:13 AM] [GET] [/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js] [::1]
+[5/8/2026 3:20:00 AM] [POST] [/TaskItems/Create] [::1]
+[5/8/2026 3:20:00 AM] [GET] [/lib/jquery-validation/dist/jquery.validate.min.js] [::1]
+[5/8/2026 3:23:13 AM] GET /
+[5/8/2026 3:23:16 AM] GET /TaskItems/index
+[5/8/2026 3:23:23 AM] GET /TaskItems/Create
+[5/8/2026 3:23:23 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js
+[5/8/2026 3:23:23 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js
+[5/8/2026 3:23:35 AM] POST /TaskItems/Create
+[5/8/2026 3:23:35 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js
+[5/8/2026 3:24:45 AM] GET /
+[5/8/2026 3:24:47 AM] GET /TaskItems/index
+[5/8/2026 3:24:54 AM] GET /TaskItems/Create
+[5/8/2026 3:24:54 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js
+[5/8/2026 3:24:54 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js
+[5/8/2026 3:25:03 AM] POST /TaskItems/Create
+[5/8/2026 3:25:03 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js
+[5/8/2026 3:26:51 AM] GET / ::1
+[5/8/2026 3:26:54 AM] GET /TaskItems/index ::1
+[5/8/2026 3:26:59 AM] GET /TaskItems/Create ::1
+[5/8/2026 3:26:59 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:26:59 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:05 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:05 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:05 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:08 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:08 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:08 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:10 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:10 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:10 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:10 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:10 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:10 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:11 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:11 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:11 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:12 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:12 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:12 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:12 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:12 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:12 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:12 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:12 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:12 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:12 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:12 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:12 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:13 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:13 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:13 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:13 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:13 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:13 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:14 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:14 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:14 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:15 AM] POST /TaskItems/Create ::1
+[5/8/2026 3:27:15 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:15 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
+[5/8/2026 3:27:16 AM] GET /TaskItems ::1
+[5/8/2026 3:27:27 AM] GET /TaskItems/Create ::1
+[5/8/2026 3:27:27 AM] GET /lib/jquery-validation/dist/jquery.validate.min.js ::1
+[5/8/2026 3:27:27 AM] GET /lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js ::1
